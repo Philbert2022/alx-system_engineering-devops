@@ -1,2 +1,1 @@
-#!/bin/bash
-command
+Task 0.where am I ?
