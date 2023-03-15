@@ -1,1 +1,3 @@
-my shell redirection Readme
+#!/bin/bash
+echo 'Hello, World'
+
